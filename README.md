@@ -1,0 +1,4 @@
+- 👋 Oi, eu me chamo @Weliton2002
+- 👀 Eu estou interessado em aprendizado de programação (HTML, CSS, JS, C/C++, C#, Python)
+- 🌱 Atualmente estou aprendendo linguagem  C/C++, HTML e CSS
+- 💞️ Estou procurando pessoas que possa me ajudar nessa caminhada
